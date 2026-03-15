@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1772309376382,
+    "username": "admin",
+    "password": "$2b$10$/uf/xWm/mJqxepdEwnsPG.1itcAnEhSHJz6uB5a.TXln.kb4vL72a",
+    "role": "admin"
+  },
+  {
+    "id": 1772375437973,
+    "username": "subasri",
+    "password": "$2b$10$PqduJmYZieCg5i6kSH.OUeFqSH7xdkceZItDP/rIcbjOeWQ9fBn4q",
+    "role": "admin"
+  },
+  {
+    "id": 1772375657202,
+    "username": "subasree",
+    "password": "$2b$10$MuLKbG6VhQTLEpDI6wYxXOQ2V6aML98PNFv4Un0IFqVVTBJrW85rO",
+    "role": "user"
+  },
+  {
+    "id": 1773577685343,
+    "username": "subaaa",
+    "password": "$2b$10$hB39AMI5uTh6Fgh54zMZL.HJAqSeVtl5EVwjSXt3hfuVFbf0To9oS",
+    "role": "user"
+  },
+  {
+    "id": 1773584143476,
+    "username": "anu",
+    "password": "$2b$10$GryzL1iPFuB33LYnpk28oegJhev9.jhVKKgNpHcYMN2/0bpC6tSa.",
+    "role": "user"
+  },
+  {
+    "id": 1773584379213,
+    "username": "abi",
+    "password": "$2b$10$CW4uWUEmFUc9ywZQgosTMeFA1apFu.m21KMLObPXvuL0Bk85IC.ki",
+    "role": "admin"
+  }
+]
